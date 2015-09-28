@@ -3,9 +3,11 @@
   "phases" : [
     {
       "title" : "Fundamentals",
+      "summary" : "This part of the module covers all of the essential concepts, tools and techniques that you'll need to be build habitable software in Ruby.",
       "topics" : [
         {
           "title" : "Ruby",
+          "summary" : "An introduction to Ruby, which is the - purely object-oriented and somewhat functional - programming language used in DAMS.",
           "videos" : [
             {
               "title" : "Ruby",
@@ -21,6 +23,7 @@
         },
         {
           "title" : "Approach",
+          "summary" : "A very light introduction to software engineering processes, and a look at some of the challenges you might face when using a reactive (Agile) approach.",
           "videos" : [
             {
               "title" : "Planning vs. reacting",
@@ -41,6 +44,7 @@
         },
         {
           "title" : "Tools",
+          "summary" : "A brief introduction to three of the key tools used in DAMS.",
           "videos" : [
             {
               "title" : "Ruby Parser",
@@ -63,9 +67,11 @@
     },
     {
       "title" : "Habitable Programs",
+      "summary" : "This is the core of the module. You'll learn about seven factors that increase the habitability of software, often by taking appropriate measurements and applying suitable refactorings.",
       "topics" : [
         {
-          "title" : "Leanness",
+          "title" : "Leaner",
+          "summary" : "Lean software has no extra parts. Every part is factored into small pieces.",
           "videos" : [
             {
               "title" : "Why lean?",
@@ -85,7 +91,8 @@
           ]
         },
         {
-          "title" : "Complexity",
+          "title" : "Less Complex",
+          "summary" : "Methods that have fewer control-flow paths are easier to reason about, and hence easier to maintain.",
           "videos" : [
             {
               "title" : "Why simplicity?",
@@ -105,7 +112,8 @@
           ]
         },
         {
-          "title" : "Coupling",
+          "title" : "Loose Coupling",
+          "summary" : "Loosely coupled software can be altered without affecting its collaborators, and re-used in new contexts.",
           "videos" : [
             {
               "title" : "Why loose coupling?",
@@ -125,7 +133,8 @@
           ]
         },
         {
-          "title" : "Cohesion",
+          "title" : "More Cohesive",
+          "summary" : "When software is arranged such that similar parts are close to each other, it is easier to maintain because changes are localised.",
           "videos" : [
             {
               "title" : "Why cohesion?",
@@ -145,7 +154,8 @@
           ]
         },
         {
-          "title" : "Duplication",
+          "title" : "Avoiding Duplication",
+          "summary" : "In software where every piece of knowledge is specified once and only once, changes become easier to make as they are often contained in a single location.",
           "videos" : [
             {
               "title" : "Why not duplicate?",
@@ -166,6 +176,7 @@
         },
         {
           "title" : "Clarity",
+          "summary" : "Code is read much more often than it is written. Therefore, habitable software reads like a good story well told.",
           "videos" : [
             {
               "title" : "Why clarity?",
@@ -191,6 +202,7 @@
         },
         {
           "title" : "Extensibility",
+          "summary" : "Extensible software allows its core functionality to be enriched at runtime without altering its code.",
           "videos" : [
             {
               "title" : "Why extensibility?",
@@ -218,6 +230,7 @@
     },
     {
       "title" : "Habitable Systems",
+      "summary" : "This is the bonus material for the module: it covers some recent trends in software engineering that can be applied to increase habitability. (Coming soon...)",
       "topics" : []
     }
   ]

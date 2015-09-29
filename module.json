@@ -12,7 +12,24 @@
             {
               "title" : "Ruby",
               "description" : "Briefly introduces Ruby, comparing it to Java and Python.",
-              "youtube" : "NTGSi6kBrlU"
+              "youtube" : "NTGSi6kBrlU",
+              "resources" : [
+                {
+                  "title" : "A Ruby Tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/ruby/1_introduction.md",
+                  "icon" : "wrench"
+                },
+                {
+                  "title" : "Ruby's official website",
+                  "url" : "https://www.ruby-lang.org/",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Poignant Guide to Ruby",
+                  "url" : "http://mislav.uniqpath.com/poignant-guide/",
+                  "icon" : "book"
+                }
+              ]
             },
             {
               "title" : "Ruby Gems",

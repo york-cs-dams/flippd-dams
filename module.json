@@ -154,7 +154,7 @@
               "youtube" : "UzYyPG6LuKc",
               "resources" : [
                 {
-                  "title" : "Ruby Parser tutorial",
+                  "title" : "Vagrant tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/tools/vagrant.md",
                   "icon" : "pencil"
                 },

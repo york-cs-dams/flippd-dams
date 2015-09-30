@@ -109,7 +109,7 @@
               "youtube" : "nduUjMbJ5to",
               "resources" : [
                 {
-                  "title" : "RSpec tutorial",
+                  "title" : "RSpec test doubles tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/rspec/2_doubles.md",
                   "icon" : "pencil"
                 },

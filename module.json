@@ -89,17 +89,17 @@
                 {
                   "title" : "TDD: Write better code in less time",
                   "url" : "https://www.youtube.com/watch?v=HhwElTL-mdI",
-                  "icon" : "film",
+                  "icon" : "film"
                 },
                 {
                   "title" : "RSpec Core Documentation",
                   "url" : "http://rspec.info/documentation/3.3/rspec-core/",
-                  "icon" : "book",
+                  "icon" : "book"
                 },
                 {
                   "title" : "RSpec Expectations Documentation",
                   "url" : "http://rspec.info/documentation/3.3/rspec-expectations/",
-                  "icon" : "book",
+                  "icon" : "book"
                 }
               ]
             },
@@ -116,12 +116,12 @@
                 {
                   "title" : "The magic tricks of testing",
                   "url" : "https://www.youtube.com/watch?v=URSWYvyc42M",
-                  "icon" : "film",
+                  "icon" : "film"
                 },
                 {
                   "title" : "Mocks aren't stubs",
                   "url" : "http://martinfowler.com/articles/mocksArentStubs.html",
-                  "icon" : "book",
+                  "icon" : "book"
                 }
               ]
             }
@@ -144,7 +144,7 @@
                 {
                   "title" : "Ruby Parser on Github",
                   "url" : "https://github.com/whitequark/parser",
-                  "icon" : "wrench",
+                  "icon" : "wrench"
                 }
               ]
             },
@@ -161,7 +161,7 @@
                 {
                   "title" : "Vagrant documentation",
                   "url" : "https://docs.vagrantup.com/v2/",
-                  "icon" : "book",
+                  "icon" : "book"
                 }
               ]
             },
@@ -173,7 +173,7 @@
                 {
                   "title" : "Pro Git",
                   "url" : "http://www.git-scm.com/book/en/v2",
-                  "icon" : "book",
+                  "icon" : "book"
                 }
               ]
             }

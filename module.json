@@ -17,7 +17,7 @@
                 {
                   "title" : "A Ruby Tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/ruby/1_introduction.md",
-                  "icon" : "wrench"
+                  "icon" : "pencil"
                 },
                 {
                   "title" : "Ruby's official website",
@@ -34,7 +34,24 @@
             {
               "title" : "Ruby Gems",
               "description" : "Introduces RubyGems and Bundler for managing Ruby dependencies.",
-              "youtube" : "bn6ZIdJxysg"
+              "youtube" : "bn6ZIdJxysg",
+              "resources" : [
+                {
+                  "title" : "Ruby Gems Documentation",
+                  "url" : "http://guides.rubygems.org",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Bundler",
+                  "url" : "http://bundler.io",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Ruby Toolbox",
+                  "url" : "https://www.ruby-toolbox.com",
+                  "icon" : "book"
+                }
+              ]
             }
           ]
         },
@@ -45,17 +62,68 @@
             {
               "title" : "Planning vs. reacting",
               "description" : "An argument for combining plan-driven and reactionary software engineering.",
-              "youtube" : "ciU9en3yHpo"
+              "youtube" : "ciU9en3yHpo",
+              "resources" : [
+                {
+                  "title" : "Design tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/approach/planning_vs_reacting.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Software Engineering Processes, SEPR Lecture",
+                  "url" : "http://www-module.cs.york.ac.uk/sepr/2013-14FACPLectures/SEPR3.pdf",
+                  "icon" : "book"
+                }
+              ]
             },
             {
               "title" : "TDD and RSpec",
               "description" : "A recap of TDD and an overview of the RSpec testing framework.",
-              "youtube" : "iRan2IniRmU"
+              "youtube" : "iRan2IniRmU",
+              "resources" : [
+                {
+                  "title" : "RSpec tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/rspec/1_basics.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "TDD: Write better code in less time",
+                  "url" : "https://www.youtube.com/watch?v=HhwElTL-mdI",
+                  "icon" : "film",
+                },
+                {
+                  "title" : "RSpec Core Documentation",
+                  "url" : "http://rspec.info/documentation/3.3/rspec-core/",
+                  "icon" : "book",
+                },
+                {
+                  "title" : "RSpec Expectations Documentation",
+                  "url" : "http://rspec.info/documentation/3.3/rspec-expectations/",
+                  "icon" : "book",
+                }
+              ]
             },
             {
               "title" : "Test doubles",
               "description" : "A set of techniques that can be used bring almost any code under test.",
-              "youtube" : "nduUjMbJ5to"
+              "youtube" : "nduUjMbJ5to",
+              "resources" : [
+                {
+                  "title" : "RSpec tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/rspec/2_doubles.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "The magic tricks of testing",
+                  "url" : "https://www.youtube.com/watch?v=URSWYvyc42M",
+                  "icon" : "film",
+                },
+                {
+                  "title" : "Mocks aren't stubs",
+                  "url" : "http://martinfowler.com/articles/mocksArentStubs.html",
+                  "icon" : "book",
+                }
+              ]
             }
           ]
         },
@@ -66,17 +134,48 @@
             {
               "title" : "Ruby Parser",
               "description" : "An overview of the fundamentals of program analysis in Ruby.",
-              "youtube" : "OWGYj_KEhvY"
+              "youtube" : "OWGYj_KEhvY",
+              "resources" : [
+                {
+                  "title" : "Ruby Parser tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/tools/ruby_parser.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Ruby Parser on Github",
+                  "url" : "https://github.com/whitequark/parser",
+                  "icon" : "wrench",
+                }
+              ]
             },
             {
               "title" : "Vagrant",
               "description" : "A solution to the \"It works on my machine\" problem.",
-              "youtube" : "UzYyPG6LuKc"
+              "youtube" : "UzYyPG6LuKc",
+              "resources" : [
+                {
+                  "title" : "Ruby Parser tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/tools/vagrant.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Vagrant documentation",
+                  "url" : "https://docs.vagrantup.com/v2/",
+                  "icon" : "book",
+                }
+              ]
             },
             {
               "title" : "Git",
               "description" : "A recap of version control, and a brief introduction to Git.",
-              "youtube" : "MmpbE9B6F8Q"
+              "youtube" : "MmpbE9B6F8Q",
+              "resources" : [
+                {
+                  "title" : "Pro Git",
+                  "url" : "http://www.git-scm.com/book/en/v2",
+                  "icon" : "book",
+                }
+              ]
             }
           ]
         }

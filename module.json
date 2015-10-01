@@ -3,7 +3,7 @@
   "phases" : [
     {
       "title" : "Fundamentals",
-      "summary" : "This part of the module covers all of the essential concepts, tools and techniques that you'll need to be build habitable software in Ruby.",
+      "summary" : "This part of the module covers all of the essential concepts, tools and techniques that you'll need to be build habitable software in Ruby. This phase isn't quite finished, and I'll be making changes to the additional materials and practicals until Fri/2 (9th October).",
       "topics" : [
         {
           "title" : "Ruby",
@@ -183,7 +183,7 @@
     },
     {
       "title" : "Habitable Programs",
-      "summary" : "This is the core of the module. You'll learn about seven factors that increase the habitability of software, often by taking appropriate measurements and applying suitable refactorings.",
+      "summary" : "This is the core of the module. You'll learn about seven factors that increase the habitability of software, often by taking appropriate measurements and applying suitable refactorings. This phase isn't quite finished, and I'll be making changes to the additional materials and practicals until Fri/3 (16th October).",
       "topics" : [
         {
           "title" : "Leaner",
@@ -346,7 +346,7 @@
     },
     {
       "title" : "Habitable Systems",
-      "summary" : "This is the bonus material for the module: it covers some recent trends in software engineering that can be applied to increase habitability. (Coming soon...)",
+      "summary" : "This is the bonus material for the module: it covers some recent trends in software engineering that can be applied to increase habitability. This phase isn't finished yet, and I'll be adding the videos, additional material, and practicals by Fri/10 (4th December).",
       "topics" : []
     }
   ]

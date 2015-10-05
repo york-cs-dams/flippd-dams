@@ -16,7 +16,7 @@
               "resources" : [
                 {
                   "title" : "A Ruby Tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/ruby/1_introduction.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/ruby/1_introduction.md",
                   "icon" : "pencil"
                 },
                 {
@@ -66,7 +66,7 @@
               "resources" : [
                 {
                   "title" : "Design tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/approach/planning_vs_reacting.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/approach/planning_vs_reacting.md",
                   "icon" : "pencil"
                 },
                 {
@@ -83,7 +83,7 @@
               "resources" : [
                 {
                   "title" : "RSpec tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/rspec/1_basics.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/1_basics.md",
                   "icon" : "pencil"
                 },
                 {
@@ -110,7 +110,12 @@
               "resources" : [
                 {
                   "title" : "RSpec test doubles tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/rspec/2_doubles.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/2_doubles.md",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "RSpec integration testing tutorial",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/3_integration.md",
                   "icon" : "pencil"
                 },
                 {
@@ -138,7 +143,7 @@
               "resources" : [
                 {
                   "title" : "Ruby Parser tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/tools/ruby_parser.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/ruby_parser.md",
                   "icon" : "pencil"
                 },
                 {
@@ -155,7 +160,7 @@
               "resources" : [
                 {
                   "title" : "Vagrant tutorial",
-                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/tutorials/tools/vagrant.md",
+                  "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/vagrant.md",
                   "icon" : "pencil"
                 },
                 {

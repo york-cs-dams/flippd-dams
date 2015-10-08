@@ -15,6 +15,11 @@
               "youtube" : "NTGSi6kBrlU",
               "resources" : [
                 {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/ruby.pdf",
+                  "icon" : "print"
+                },
+                {
                   "title" : "A Ruby Tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/ruby/1_introduction.md",
                   "icon" : "pencil"
@@ -36,6 +41,11 @@
               "description" : "Introduces RubyGems and Bundler for managing Ruby dependencies.",
               "youtube" : "bn6ZIdJxysg",
               "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/package_management.pdf",
+                  "icon" : "print"
+                },
                 {
                   "title" : "Ruby Gems Documentation",
                   "url" : "http://guides.rubygems.org",
@@ -65,6 +75,11 @@
               "youtube" : "ciU9en3yHpo",
               "resources" : [
                 {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/planning_vs_reacting.pdf",
+                  "icon" : "print"
+                },
+                {
                   "title" : "Design tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/approach/planning_vs_reacting.md",
                   "icon" : "pencil"
@@ -81,6 +96,11 @@
               "description" : "A recap of TDD and an overview of the RSpec testing framework.",
               "youtube" : "iRan2IniRmU",
               "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/tdd_recap.pdf",
+                  "icon" : "print"
+                },
                 {
                   "title" : "RSpec tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/1_basics.md",
@@ -108,6 +128,11 @@
               "description" : "A set of techniques that can be used bring almost any code under test.",
               "youtube" : "nduUjMbJ5to",
               "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/test_doubles.pdf",
+                  "icon" : "print"
+                },
                 {
                   "title" : "RSpec test doubles tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/2_doubles.md",
@@ -142,6 +167,11 @@
               "youtube" : "OWGYj_KEhvY",
               "resources" : [
                 {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/ruby_parser.pdf",
+                  "icon" : "print"
+                },
+                {
                   "title" : "Ruby Parser tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/ruby_parser.md",
                   "icon" : "pencil"
@@ -159,6 +189,11 @@
               "youtube" : "UzYyPG6LuKc",
               "resources" : [
                 {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/vagrant.pdf",
+                  "icon" : "print"
+                },
+                {
                   "title" : "Vagrant tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/vagrant.md",
                   "icon" : "pencil"
@@ -175,6 +210,11 @@
               "description" : "A recap of version control, and a brief introduction to Git.",
               "youtube" : "MmpbE9B6F8Q",
               "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/fundamentals/git.pdf",
+                  "icon" : "print"
+                },
                 {
                   "title" : "Pro Git",
                   "url" : "http://www.git-scm.com/book/en/v2",

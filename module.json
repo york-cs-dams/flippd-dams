@@ -3,7 +3,7 @@
   "phases" : [
     {
       "title" : "Fundamentals",
-      "summary" : "This part of the module covers all of the essential concepts, tools and techniques that you'll need to be build habitable software in Ruby. This phase isn't quite finished, and I'll be making changes to the additional materials and practicals until Fri/2 (9th October).",
+      "summary" : "This part of the module covers all of the essential concepts, tools and techniques that you'll need to be build habitable software in Ruby.",
       "topics" : [
         {
           "title" : "Ruby",
@@ -237,17 +237,38 @@
             {
               "title" : "Why lean?",
               "description" : "Lean software solves a single problem well.",
-              "youtube" : "szYPXN7lLe4"
+              "youtube" : "szYPXN7lLe4",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/why_lean.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Size metrics",
               "description" : "The Lines of Code metric, and alternatives to it.",
-              "youtube" : "es6vLYKLvbs"
+              "youtube" : "es6vLYKLvbs",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/size_metrics.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Getting lean",
               "description" : "The Extract Method and Extract Class refactorings.",
-              "youtube" : "IWOY1diAGlE"
+              "youtube" : "IWOY1diAGlE",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/getting_lean.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -258,17 +279,38 @@
             {
               "title" : "Why simplicity?",
               "description" : "An exploration of complexity in software, and how simplicity can win.",
-              "youtube" : "XmCiCjwoLy0"
+              "youtube" : "XmCiCjwoLy0",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/why_simplicity.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Complexity metrics",
               "description" : "The McCabe Cyclomatic and ABC metrics for quantifying complexity.",
-              "youtube" : "tTMFpKpjM1k"
+              "youtube" : "tTMFpKpjM1k",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/complexity_metrics.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Getting simple",
               "description" : "Tactics for avoiding loops and conditionals.",
-              "youtube" : "gZuNXq0Ty-c"
+              "youtube" : "gZuNXq0Ty-c",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/getting_rid_of_complexity.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -279,17 +321,38 @@
             {
               "title" : "Why loose coupling?",
               "description" : "Explains how dependencies are powerful yet perilious.",
-              "youtube" : "hWyeKs0LZGA"
+              "youtube" : "hWyeKs0LZGA",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/why_loose_coupling.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Coupling metrics",
               "description" : "The MPC and CBO metrics for quantifying coupling.",
-              "youtube" : "xuGxHsvDwpw"
+              "youtube" : "xuGxHsvDwpw",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/coupling_metrics.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Getting loose coupling",
               "description" : "Dependency injection, inversion of control, tell don't ask and gateways.",
-              "youtube" : "XlQfMGsVr_0"
+              "youtube" : "XlQfMGsVr_0",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/getting_loose_coupling.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -300,17 +363,38 @@
             {
               "title" : "Why cohesion?",
               "description" : "Some parts of our software simply belong together.",
-              "youtube" : "BEm2ki8iZrA"
+              "youtube" : "BEm2ki8iZrA",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/why_cohesion.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Cohesion metrics",
               "description" : "The LCOM4 cohesion metric for identifying classes with many responsibilities.",
-              "youtube" : "hL_TpzwCjiE"
+              "youtube" : "hL_TpzwCjiE",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/cohesion_metrics.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Getting cohesion",
               "description" : "Extacting classes, moving methods, and using wrappers.",
-              "youtube" : "BEm2ki8iZrA"
+              "youtube" : "BEm2ki8iZrA",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/getting_cohesion.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -321,17 +405,38 @@
             {
               "title" : "Why not duplicate?",
               "description" : "Avoiding duplication of knowledge is key to habitable software.",
-              "youtube" : "EQDTkZwSHz0"
+              "youtube" : "EQDTkZwSHz0",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/why_not_duplicate.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Clone detection",
               "description" : "Baker's algorithm for detecting similar fragments of code.",
-              "youtube" : "Up6qznduO6o"
+              "youtube" : "Up6qznduO6o",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/clone_detection.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Reducing duplication",
               "description" : "Making clones more alike, template methods, and strategies.",
-              "youtube" : "-sf2zPnHBOw"
+              "youtube" : "-sf2zPnHBOw",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/reducing_duplication.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -342,22 +447,50 @@
             {
               "title" : "Why clarity?",
               "description" : "Clarity is crucial because code is read more often than it is written.",
-              "youtube" : "Qsx8U9aCISI"
+              "youtube" : "Qsx8U9aCISI",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/why_clarity.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Clear names",
               "description" : "Naming is one of the hardest problems in computer science.",
-              "youtube" : "F728xwWZVZ4"
+              "youtube" : "F728xwWZVZ4",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_names.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Clear documentation",
               "description" : "Bad documentation can seed doubt, confusion and despair!",
-              "youtube" : "VzDHGD7486o"
+              "youtube" : "VzDHGD7486o",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_documentation.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Clear narratives",
               "description" : "Habitable software reads like a good story well told.",
-              "youtube" : "OhDFCYNbGMY"
+              "youtube" : "OhDFCYNbGMY",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_narrative.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         },
@@ -368,22 +501,50 @@
             {
               "title" : "Why extensibility?",
               "description" : "Enhancing a system's functionality without re-opening components.",
-              "youtube" : "3EhDVsH0KkE"
+              "youtube" : "3EhDVsH0KkE",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/why_extensibility.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Observers",
               "description" : "Decoupling components by using observers to communicate events.",
-              "youtube" : "-sf2zPnHBOw"
+              "youtube" : "-sf2zPnHBOw",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/observers.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Middleware",
               "description" : "Decomposing message-processing applications with middleware.",
-              "youtube" : "sY-e6DCf55Q"
+              "youtube" : "sY-e6DCf55Q",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/middleware.pdf",
+                  "icon" : "print"
+                }
+              ]
             },
             {
               "title" : "Plug-ins",
               "description" : "How to implement a plug-in architecture with Ruby modules.",
-              "youtube" : "scuVGe48XXA"
+              "youtube" : "scuVGe48XXA",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/plugins.pdf",
+                  "icon" : "print"
+                }
+              ]
             }
           ]
         }

@@ -242,7 +242,12 @@
                 {
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/why_lean.pdf",
-                  "icon" : "print"
+                  "icon" : "print",
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -255,6 +260,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/size_metrics.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -267,6 +277,21 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/getting_lean.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Extract Method @ SourceMaking",
+                  "url" : "https://sourcemaking.com/refactoring/extract-method",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Extract Class @ SourceMaking",
+                  "url" : "https://sourcemaking.com/refactoring/extract-class",
+                  "icon" : "book"
                 }
               ]
             }
@@ -285,6 +310,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/why_simplicity.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -297,6 +327,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/complexity_metrics.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -309,6 +344,26 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/complexity/getting_rid_of_complexity.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Replace Conditional with Polymorphism",
+                  "url" : "https://sourcemaking.com/refactoring/replace-conditional-with-polymorphism",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Strategy Pattern @ SourceMaking",
+                  "url" : "https://sourcemaking.com/design_patterns/strategy",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Unconditional Programming",
+                  "url" : "http://michaelfeathers.typepad.com/michael_feathers_blog/2013/11/unconditional-programming.html",
+                  "icon" : "book"
                 }
               ]
             }
@@ -327,6 +382,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/why_loose_coupling.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -339,6 +399,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/coupling_metrics.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -351,6 +416,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/coupling/getting_loose_coupling.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
+                  "icon" : "pencil"
                 }
               ]
             }
@@ -369,6 +439,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/why_cohesion.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -381,6 +456,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/cohesion_metrics.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -393,6 +473,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/cohesion/getting_cohesion.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
+                  "icon" : "pencil"
                 }
               ]
             }
@@ -411,6 +496,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/why_not_duplicate.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -423,6 +513,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/clone_detection.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -435,6 +530,21 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/reducing_duplication.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Template Method Pattern @ SourceMaking",
+                  "url" : "https://sourcemaking.com/design_patterns/template_method",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Strategy Pattern @ SourceMaking",
+                  "url" : "https://sourcemaking.com/design_patterns/strategy",
+                  "icon" : "book"
                 }
               ]
             }
@@ -453,6 +563,16 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/why_clarity.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Ruby Style Guide",
+                  "url" : "https://github.com/bbatsov/ruby-style-guide",
+                  "icon" : "book"
                 }
               ]
             },
@@ -465,6 +585,16 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_names.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "A Model for Improving Names",
+                  "url" : "http://blog.thecodewhisperer.com/2011/06/15/a-model-for-improving-names/",
+                  "icon" : "book"
                 }
               ]
             },
@@ -477,6 +607,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_documentation.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -489,6 +624,16 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/clarity/clear_narrative.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Confident Code",
+                  "url" : "https://www.youtube.com/watch?v=T8J0j2xJFgQ",
+                  "icon" : "film"
                 }
               ]
             }
@@ -507,6 +652,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/why_extensibility.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -519,6 +669,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/observers.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -531,6 +686,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/middleware.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
+                  "icon" : "pencil"
                 }
               ]
             },
@@ -543,6 +703,11 @@
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/extensibility/plugins.pdf",
                   "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
+                  "icon" : "pencil"
                 }
               ]
             }

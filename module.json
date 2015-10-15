@@ -228,7 +228,7 @@
     },
     {
       "title" : "Habitable Programs",
-      "summary" : "This is the core of the module. You'll learn about seven factors that increase the habitability of software, often by taking appropriate measurements and applying suitable refactorings. This phase isn't quite finished, and I'll be making changes to the additional materials and practicals until Fri/3 (16th October).",
+      "summary" : "This is the core of the module. You'll learn about seven factors that increase the habitability of software, often by taking appropriate measurements and applying suitable refactorings.",
       "topics" : [
         {
           "title" : "Leaner",

@@ -242,7 +242,7 @@
                 {
                   "title" : "Slides",
                   "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/lean/why_lean.pdf",
-                  "icon" : "print",
+                  "icon" : "print"
                 },
                 {
                   "title" : "Practical",

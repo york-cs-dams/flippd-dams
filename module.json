@@ -370,6 +370,73 @@
           ]
         },
         {
+          "title" : "Avoiding Duplication",
+          "summary" : "In software where every piece of knowledge is specified once and only once, changes become easier to make as they are often contained in a single location.",
+          "videos" : [
+            {
+              "title" : "Why not duplicate?",
+              "description" : "Avoiding duplication of knowledge is key to habitable software.",
+              "youtube" : "EQDTkZwSHz0",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/why_not_duplicate.pdf",
+                  "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
+                }
+              ]
+            },
+            {
+              "title" : "Clone detection",
+              "description" : "Baker's algorithm for detecting similar fragments of code.",
+              "youtube" : "Up6qznduO6o",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/clone_detection.pdf",
+                  "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
+                }
+              ]
+            },
+            {
+              "title" : "Reducing duplication",
+              "description" : "Making clones more alike, template methods, and strategies.",
+              "youtube" : "-sf2zPnHBOw",
+              "resources" : [
+                {
+                  "title" : "Slides",
+                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/reducing_duplication.pdf",
+                  "icon" : "print"
+                },
+                {
+                  "title" : "Practical",
+                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
+                  "icon" : "pencil"
+                },
+                {
+                  "title" : "Template Method Pattern @ SourceMaking",
+                  "url" : "https://sourcemaking.com/design_patterns/template_method",
+                  "icon" : "book"
+                },
+                {
+                  "title" : "Strategy Pattern @ SourceMaking",
+                  "url" : "https://sourcemaking.com/design_patterns/strategy",
+                  "icon" : "book"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title" : "Loose Coupling",
           "summary" : "Loosely coupled software can be altered without affecting its collaborators, and re-used in new contexts.",
           "videos" : [
@@ -478,73 +545,6 @@
                   "title" : "Practical",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
                   "icon" : "pencil"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title" : "Avoiding Duplication",
-          "summary" : "In software where every piece of knowledge is specified once and only once, changes become easier to make as they are often contained in a single location.",
-          "videos" : [
-            {
-              "title" : "Why not duplicate?",
-              "description" : "Avoiding duplication of knowledge is key to habitable software.",
-              "youtube" : "EQDTkZwSHz0",
-              "resources" : [
-                {
-                  "title" : "Slides",
-                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/why_not_duplicate.pdf",
-                  "icon" : "print"
-                },
-                {
-                  "title" : "Practical",
-                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
-                  "icon" : "pencil"
-                }
-              ]
-            },
-            {
-              "title" : "Clone detection",
-              "description" : "Baker's algorithm for detecting similar fragments of code.",
-              "youtube" : "Up6qznduO6o",
-              "resources" : [
-                {
-                  "title" : "Slides",
-                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/clone_detection.pdf",
-                  "icon" : "print"
-                },
-                {
-                  "title" : "Practical",
-                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
-                  "icon" : "pencil"
-                }
-              ]
-            },
-            {
-              "title" : "Reducing duplication",
-              "description" : "Making clones more alike, template methods, and strategies.",
-              "youtube" : "-sf2zPnHBOw",
-              "resources" : [
-                {
-                  "title" : "Slides",
-                  "url" : "https://raw.githubusercontent.com/york-cs-dams/flippd-dams/master/slides/habitable_programs/duplication/reducing_duplication.pdf",
-                  "icon" : "print"
-                },
-                {
-                  "title" : "Practical",
-                  "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
-                  "icon" : "pencil"
-                },
-                {
-                  "title" : "Template Method Pattern @ SourceMaking",
-                  "url" : "https://sourcemaking.com/design_patterns/template_method",
-                  "icon" : "book"
-                },
-                {
-                  "title" : "Strategy Pattern @ SourceMaking",
-                  "url" : "https://sourcemaking.com/design_patterns/strategy",
-                  "icon" : "book"
                 }
               ]
             }

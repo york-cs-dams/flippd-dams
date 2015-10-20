@@ -371,7 +371,7 @@
         },
         {
           "title" : "Avoiding Duplication",
-          "summary" : "In software where every piece of knowledge is specified once and only once, changes become easier to make as they are often contained in a single location.",
+          "summary" : "Changes are easier to make when every piece of knowledge is specified once and only once.",
           "videos" : [
             {
               "title" : "Why not duplicate?",

@@ -717,8 +717,32 @@
     },
     {
       "title" : "Habitable Systems",
-      "summary" : "This is the bonus material for the module: it covers some recent trends in software engineering that can be applied to increase habitability. This phase isn't finished yet, and I'll be adding the videos, additional material, and practicals by Fri/2 (15th January).",
-      "topics" : []
+      "summary" : "This is the bonus material for the module. You'll learn about how to architect highly habitable systems and, in particular, how to avoid the downsides of contemporary MVC web applications.",
+      "topics" : [
+        {
+          "title" : "Architecture",
+          "summary" : "A good architecture tells us how to organise our system, communicates the system's intent, and allows us to defer decisions about tools.",
+          "videos" : [
+            {
+              "title" : "Clean Architecture (Bob Martin)",
+              "description" : "Enhancing a system's functionality without re-opening components.",
+              "youtube" : "Nltqi7ODZTM",
+              "resources" : [
+                {
+                  "title" : "Blog post",
+                  "url" : "http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html",
+                  "icon" : "print"
+                },
+                {
+                  "title" : "Related: 7 Patterns to Refactor Fat Models",
+                  "url" : "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/",
+                  "icon" : "print"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
